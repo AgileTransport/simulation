@@ -1,0 +1,122 @@
+[
+  {
+    "line": "1",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "3",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "5",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "6",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "7",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "9",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "22",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "midi"
+  },
+  {
+    "line": "24",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "24B",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "25",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "25N",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "30",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "35",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "46B",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "43",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "43B",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "43P",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta 1 Mai",
+    "type": "trolley"
+  },
+  {
+    "line": "100",
+    "endOne": "P-ta Garii",
+    "endTwo": "B-dul Muncii",
+    "type": "tram"
+  },
+  {
+    "line": "101",
+    "endOne": "Str. Bucium",
+    "endTwo": "P-ta Garii",
+    "type": "tram"
+  },
+  {
+    "line": "102",
+    "endOne": "Str. Bucium",
+    "endTwo": "B-dul Muncii",
+    "type": "tram"
+  }
+]

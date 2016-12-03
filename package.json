@@ -1,0 +1,27 @@
+{
+  "name": "simulation",
+  "version": "1.0.0",
+  "description": "Simulates the track and arrival of buses for the backend.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgileTransport/simulation.git"
+  },
+  "keywords": [
+    "bus",
+    "track",
+    "simulation"
+  ],
+  "author": "Lajos L. Pongracz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgileTransport/simulation/issues"
+  },
+  "homepage": "https://github.com/AgileTransport/simulation#readme",
+  "dependencies": {
+    "mongoose": "^4.7.1"
+  }
+}
