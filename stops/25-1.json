@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "stopSequence" : 1,
+    "stop" : 1,
+    "nextStopDistance" : 700,
+    "direction" : 2
+  },
+  {
+    "stopSequence" : 2,
+    "stop" : 2,
+    "nextStopDistance" : 600,
+    "direction" : 2
+  },
+  {
+    "stopSequence" : 3,
+    "stop" : 3,
+    "nextStopDistance" : 800,
+    "direction" : 1
+  },
+  {
+    "stopSequence" : 4,
+    "stop" : 4,
+    "nextStopDistance" : 700,
+    "direction" : 2
+  },
+  {
+    "stopSequence" : 5,
+    "stop" : 5,
+    "nextStopDistance" : 650,
+    "direction" : 2
+  },
+  {
+    "stopSequence" : 6,
+    "stop" : 6,
+    "nextStopDistance" : 700,
+    "direction" : 2
+  },
+  {
+    "stopSequence" : 7,
+    "stop" : 7,
+    "nextStopDistance" : 700,
+    "direction" : 2
+  },
+  {
+    "stopSequence" : 8,
+    "stop" : 8,
+    "nextStopDistance" : 650,
+    "direction" : 2
+  },
+  {
+    "stopSequence" : 9,
+    "stop" : 9,
+    "nextStopDistance" : 850,
+    "direction" : 2
+  },
+  {
+    "stopSequence" : 10,
+    "stop" : 10,
+    "nextStopDistance" : 500,
+    "direction" : 2
+  },
+  {
+    "stopSequence" : 11,
+    "stop" : 11,
+    "nextStopDistance" : 500,
+    "direction" : 2
+  },
+  {
+    "stopSequence" : 12,
+    "stop" : 12,
+    "nextStopDistance" : 700,
+    "direction" : 3
+  },
+  {
+    "stopSequence" : 13,
+    "stop" : 13,
+    "nextStopDistance" : 650,
+    "direction" : 3
+  },
+  {
+    "stopSequence" : 14,
+    "stop" : 14,
+    "nextStopDistance" : 650,
+    "direction" : 3
+  },
+  {
+    "stopSequence" : 15,
+    "stop" : 15,
+    "nextStopDistance" : 350,
+    "direction" : 3
+  },
+  {
+    "stopSequence" : 16,
+    "stop" : 16,
+    "nextStopDistance" : 0,
+    "direction" : 0
+  }
+]

@@ -8,12 +8,13 @@ Install Node with NPM and MongoDB.
 Restore the packages.
 
 ```sh
-$ cd backend
+$ cd simulation
 $ npm install
 ```
 
 ## Running the server app
 
 ```sh
+$ sudo node generate-data.js
 $ sudo node app.js
 ```

@@ -7,99 +7,99 @@
   },
   {
     "line": "3",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
+    "endOne": "Str. Unirii",
+    "endTwo": "P-ta Garii",
     "type": "trolley"
   },
   {
     "line": "5",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
+    "endOne": "P-ta Garii",
+    "endTwo": "Aeroport",
     "type": "trolley"
   },
   {
     "line": "6",
     "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
+    "endTwo": "Str. Aurel Vlaicu",
     "type": "trolley"
   },
   {
     "line": "7",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
+    "endOne": "Str. Aurel Vlaicu",
+    "endTwo": "Str. Izlazului",
     "type": "trolley"
   },
   {
     "line": "9",
     "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
-    "type": "trolley"
+    "endTwo": "P-ta Garii",
+    "type": "bus"
   },
   {
     "line": "22",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
+    "endOne": "P-ta Garii",
+    "endTwo": "Str. I. Moldovan",
     "type": "midi"
   },
   {
     "line": "24",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
-    "type": "trolley"
+    "endOne": "Str. Unirii",
+    "endTwo": "Str. Bucium",
+    "type": "bus"
   },
   {
     "line": "24B",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
-    "type": "trolley"
+    "endOne": "Str. Unirii",
+    "endTwo": "VIVO",
+    "type": "bus"
   },
   {
     "line": "25",
     "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
+    "endTwo": "Str. Unirii",
     "type": "trolley"
   },
   {
     "line": "25N",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
-    "type": "trolley"
+    "endOne": "Str. Unirii",
+    "endTwo": "Str. Bucium",
+    "type": "bus"
   },
   {
     "line": "30",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
-    "type": "trolley"
+    "endOne": "C. Grigorescu",
+    "endTwo": "Str. Aurel Vlaicu",
+    "type": "bus"
   },
   {
     "line": "35",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
-    "type": "trolley"
+    "endOne": "Cart. Zorilor",
+    "endTwo": "P-ta Garii",
+    "type": "bus"
   },
   {
     "line": "46B",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
-    "type": "trolley"
+    "endOne": "Cart. Zorilor",
+    "endTwo": "Str. Aurel Vlaicu",
+    "type": "bus"
   },
   {
     "line": "43",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
-    "type": "trolley"
+    "endOne": "C. Grigorescu",
+    "endTwo": "Cart. Zorilor",
+    "type": "bus"
   },
   {
     "line": "43B",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
-    "type": "trolley"
+    "endOne": "C. Grigorescu",
+    "endTwo": "C. Turzii",
+    "type": "bus"
   },
   {
     "line": "43P",
-    "endOne": "Str. Bucium",
-    "endTwo": "P-ta 1 Mai",
-    "type": "trolley"
+    "endOne": "VIVO",
+    "endTwo": "Cart. Zorilor",
+    "type": "bus"
   },
   {
     "line": "100",

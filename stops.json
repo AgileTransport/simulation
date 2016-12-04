@@ -1,0 +1,98 @@
+[
+  {
+    "id" : 1,
+	"name" : "Primaverii",
+	"latitude" : 46.751717,
+	"longitude" : 23.545211
+  },
+  {
+    "id" : 2,
+	"name" : "Minerva 2",
+	"latitude" : 46.754289,
+	"longitude" : 23.554384
+  },
+  {
+    "id" : 3,
+	"name" : "Izlazului 2",
+	"latitude" : 46.755358,
+	"longitude" : 23.561812
+  },
+  {
+    "id" : 4,
+	"name" : "Campului",
+	"latitude" : 46.760694,
+	"longitude" : 23.564354
+  },
+  {
+    "id" : 5,
+	"name" : "Agronomia",
+	"latitude" : 46.762994,
+	"longitude" : 23.572744
+  },
+  {
+    "id" : 6,
+	"name" : "Motilor",
+	"latitude" : 46.766140,
+	"longitude" : 23.579600
+  },
+  {
+    "id" : 7,
+	"name" : "Memorandumului Sud",
+	"latitude" : 46.769623,
+	"longitude" : 23.587110
+  },
+  {
+    "id" : 8,
+	"name" : "Sora",
+	"latitude" : 46.771600,
+	"longitude" : 23.592612
+  },
+  {
+    "id" : 9,
+	"name" : "Regionala CFR",
+	"latitude" : 46.773247,
+	"longitude" : 23.597231
+  },
+  {
+    "id" : 10,
+	"name" : "Biserica Sf. Petru",
+	"latitude" : 46.775966,
+	"longitude" : 23.605321
+  },
+  {
+    "id" : 11,
+	"name" : "P-ta Marasti",
+	"latitude" : 46.777597,
+	"longitude" : 23.611436
+  },
+  {
+    "id" : 12,
+	"name" : "Maresal C-tin Prezan",
+	"latitude" : 46.778361,
+	"longitude" : 23.615749
+  },
+  {
+    "id" : 13,
+	"name" : "Dorobantilor",
+	"latitude" : 46.777362,
+	"longitude" : 23.620234
+  },
+  {
+    "id" : 14,
+	"name" : "Campus Universitar",
+	"latitude" : 46.774011,
+	"longitude" : 23.621628
+  },
+  {
+    "id" : 15,
+	"name" : "Iulius Mall",
+	"latitude" : 46.771366,
+	"longitude" : 23.625276
+  },
+  {
+    "id" : 16,
+	"name" : "Liceul Pedagogic",
+	"latitude" : 46.769867,
+	"longitude" : 23.628130
+  }
+]
